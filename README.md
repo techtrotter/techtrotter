@@ -28,4 +28,11 @@
 🧠 AI/ML:            Scikit-Learn, OpenCV, TensorFlow, CNNs
 🗃️ Database:         PostgreSQL, MySQL, MariaDB, MongoDB
 ☁️ Cloud & Tools:    AWS (S3, RDS), Docker, GitHub, VS Code, PyCharm
+| Project                                                                                               | Description                                                  | Tech Stack               |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------ |
+| 🔌 [GadgetBox](https://github.com/techtrotter/GadgetBox)                                              | Electronics e-commerce with Django + React                   | Django, REST API, React  |
+| 🏕️ [OffBeats App](https://github.com/techtrotter/OffBeats)                                           | Android app for offbeat travel, future LLM itinerary planner | Android, Firebase, ML    |
+| 📡 [Spectrum Sensing DL](https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning)               | CNN-based modulation classifier for wireless signals         | Deep Learning, CNN       |
+| 🌫️ [Air Pollution Monitor](https://github.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System) | Real-time IoT-based pollution monitoring system              | Arduino, Sensors, Cloud  |
+| 🏥 Hospital ERP (Odoo)                                                                                | Custom ERP for hospital flow management                      | Odoo, Python, PostgreSQL |
 
