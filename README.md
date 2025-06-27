@@ -28,71 +28,61 @@
 🗃️ Database:         PostgreSQL, MySQL, MariaDB, MongoDB
 ☁️ Cloud & Tools:    AWS (S3, RDS), Docker, GitHub, VS Code, PyCharm
 ```
-## Projects
+
+ ## Projects
 
 <table>
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/techtrotter/GadgetBox">GadgetBox</a></h4>
-      <p><i>An electronics e-commerce platform built using Django and React.</i></p>
+      <p><i>Modern electronics e-commerce platform built with Django + React.</i></p>
       <ul>
-        <li>Product management & filtering</li>
-        <li>JWT-based authentication & user profiles</li>
-        <li>Shopping cart & order flow with payment logic</li>
+        <li>Dynamic product listing & filtering</li>
+        <li>User auth, cart, and order placement</li>
+        <li>REST APIs for full backend integration</li>
       </ul>
-      <p><strong>Tech Stack:</strong> Django, Django REST, React, Redux</p>
+      <p><strong>Stack:</strong> Django, DRF, React, Redux</p>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/techtrotter/GadgetBox/main/screenshots/home.png" width="100%" />
-    </td>
+    <td><img src="https://raw.githubusercontent.com/techtrotter/GadgetBox/main/screenshots/home.png" width="100%" /></td>
   </tr>
 
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/techtrotter/OffBeats">OffBeats (Android)</a></h4>
-      <p><i>Mobile app to discover offbeat travel destinations, trekking trails, and connect with travel partners.</i></p>
+      <h4><a href="https://github.com/techtrotter/OffBeats">OffBeats App</a></h4>
+      <p><i>Android app for solo travelers & trekking enthusiasts.</i></p>
       <ul>
-        <li>Firebase-based Android application</li>
-        <li>Planned integration of LLM for itinerary generation</li>
-        <li>Focus on solo traveler discovery & safety</li>
+        <li>Firebase backend & real-time data</li>
+        <li>Upcoming LLM integration for itinerary AI</li>
       </ul>
-      <p><strong>Tech Stack:</strong> Android (Java), Firebase, LLM (future)</p>
+      <p><strong>Stack:</strong> Android (Java), Firebase, ML APIs</p>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/techtrotter/OffBeats/main/screenshots/landing.png" width="100%" />
-    </td>
+    <td><img src="https://raw.githubusercontent.com/techtrotter/OffBeats/main/screenshots/landing.png" width="100%" /></td>
   </tr>
 
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning">Spectrum Sensing with CNN</a></h4>
-      <p><i>Deep learning model to classify modulation types in noisy wireless environments.</i></p>
+      <h4><a href="https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning">Spectrum Sensing</a></h4>
+      <p><i>Deep learning model for classifying modulated radio signals.</i></p>
       <ul>
-        <li>RadioML dataset (modulations like BPSK, QAM)</li>
-        <li>Custom CNN with regularization</li>
-        <li>Visualized confusion matrices vs SNR</li>
+        <li>Custom CNN with dropout & L2 regularization</li>
+        <li>Trained on RadioML 2016.04C dataset</li>
+        <li>Visual confusion matrix by SNR</li>
       </ul>
-      <p><strong>Tech Stack:</strong> Python, Keras, RadioML Dataset, Matplotlib</p>
+      <p><strong>Stack:</strong> Python, Keras, NumPy, Matplotlib</p>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/techtrotter/Spectrum-Sensing-Deep-Learning/main/screenshots/confusion_matrix.png" width="100%" />
-    </td>
+    <td><img src="https://raw.githubusercontent.com/techtrotter/Spectrum-Sensing-Deep-Learning/main/screenshots/confusion_matrix.png" width="100%" /></td>
   </tr>
 
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System">Air Pollution Monitoring</a></h4>
-      <p><i>IoT project to monitor air quality using gas sensors and live dashboards.</i></p>
+      <h4><a href="https://github.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System">Air Quality Monitor</a></h4>
+      <p><i>IoT project to track pollution in real-time via sensors.</i></p>
       <ul>
-        <li>Real-time gas detection (CO2, CO)</li>
-        <li>Data logging and alert system</li>
-        <li>Web dashboard integration</li>
+        <li>Detects CO2, CO, temperature, humidity</li>
+        <li>Live dashboard with alerts</li>
       </ul>
-      <p><strong>Tech Stack:</strong> Arduino, C++, Sensors, Web Dashboard</p>
+      <p><strong>Stack:</strong> Arduino, C++, Sensors, Firebase</p>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System/main/screenshots/overview.png" width="100%" />
-    </td>
+    <td><img src="https://raw.githubusercontent.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System/main/screenshots/overview.png" width="100%" /></td>
   </tr>
 </table>
-
