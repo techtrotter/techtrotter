@@ -29,60 +29,59 @@
 ☁️ Cloud & Tools:    AWS (S3, RDS), Docker, GitHub, VS Code, PyCharm
 ```
 
- ## Projects
+ ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/techtrotter/GadgetBox">GadgetBox</a></h4>
-      <p><i>Modern electronics e-commerce platform built with Django + React.</i></p>
-      <ul>
-        <li>Dynamic product listing & filtering</li>
-        <li>User auth, cart, and order placement</li>
-        <li>REST APIs for full backend integration</li>
-      </ul>
-      <p><strong>Stack:</strong> Django, DRF, React, Redux</p>
-    </td>
-    <td><img src="https://raw.githubusercontent.com/techtrotter/GadgetBox/main/screenshots/home.png" width="100%" /></td>
-  </tr>
+## 🧩 Featured Projects
 
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/techtrotter/OffBeats">OffBeats App</a></h4>
-      <p><i>Android app for solo travelers & trekking enthusiasts.</i></p>
-      <ul>
-        <li>Firebase backend & real-time data</li>
-        <li>Upcoming LLM integration for itinerary AI</li>
-      </ul>
-      <p><strong>Stack:</strong> Android (Java), Firebase, ML APIs</p>
-    </td>
-    <td><img src="https://raw.githubusercontent.com/techtrotter/OffBeats/main/screenshots/landing.png" width="100%" /></td>
-  </tr>
+### [📦 GadgetBox](https://github.com/techtrotter/GadgetBox)
+*Modern electronics e-commerce platform built with Django + React*
 
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning">Spectrum Sensing</a></h4>
-      <p><i>Deep learning model for classifying modulated radio signals.</i></p>
-      <ul>
-        <li>Custom CNN with dropout & L2 regularization</li>
-        <li>Trained on RadioML 2016.04C dataset</li>
-        <li>Visual confusion matrix by SNR</li>
-      </ul>
-      <p><strong>Stack:</strong> Python, Keras, NumPy, Matplotlib</p>
-    </td>
-    <td><img src="https://raw.githubusercontent.com/techtrotter/Spectrum-Sensing-Deep-Learning/main/screenshots/confusion_matrix.png" width="100%" /></td>
-  </tr>
+**Key Features:**
+- Dynamic product listing & filtering
+- User auth, cart, and order placement
+- REST APIs for full backend integration
 
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System">Air Quality Monitor</a></h4>
-      <p><i>IoT project to track pollution in real-time via sensors.</i></p>
-      <ul>
-        <li>Detects CO2, CO, temperature, humidity</li>
-        <li>Live dashboard with alerts</li>
-      </ul>
-      <p><strong>Stack:</strong> Arduino, C++, Sensors, Firebase</p>
-    </td>
-    <td><img src="https://raw.githubusercontent.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System/main/screenshots/overview.png" width="100%" /></td>
-  </tr>
-</table>
+**Tech Stack:** Django, DRF, React, Redux
+
+![GadgetBox Screenshot](https://raw.githubusercontent.com/techtrotter/GadgetBox/main/screenshots/home.png)
+
+---
+
+### [🌄 OffBeats App](https://github.com/techtrotter/OffBeats)
+*Android app for solo travelers & trekking enthusiasts*
+
+**Key Features:**
+- Firebase backend & real-time data
+- Upcoming LLM integration for itinerary AI
+
+**Tech Stack:** Android (Java), Firebase
+
+![OffBeats Screenshot](https://raw.githubusercontent.com/techtrotter/OffBeats/main/screenshots/landing.png)
+
+---
+
+### [📡 Spectrum Sensing](https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning)
+*Signal modulation classification using deep learning for cognitive radio networks*
+
+**Key Features:**
+- Trained on RadioML dataset across SNR levels
+- CNN with dropout and L2 regularization
+- Confusion matrix visualization
+
+**Tech Stack:** Python, Keras, RadioML, Matplotlib
+
+![Spectrum Output](https://raw.githubusercontent.com/techtrotter/Spectrum-Sensing-Deep-Learning/main/screenshots/confusion_matrix.png)
+
+---
+
+### [🌫️ Air Pollution Monitoring](https://github.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System)
+*IoT-based real-time air quality monitoring dashboard*
+
+**Key Features:**
+- CO, CO2, humidity & temperature detection
+- Wireless sensor data + web dashboard
+- Alert system on threshold values
+
+**Tech Stack:** Arduino, C++, IoT Sensors, Firebase
+
+![Air Monitor](https://raw.githubusercontent.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System/main/screenshots/overview.png)
