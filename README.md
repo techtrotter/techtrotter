@@ -45,9 +45,12 @@
 ☁️ Cloud & Tools:    AWS (S3, RDS), Docker, GitHub, VS Code, PyCharm
  ---
 ```
-| Project                                                                                                                           | Tech Stack                 | Highlights                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------- |
-| [**GadgetBox**](https://github.com/techtrotter/GadgetBox) <br>🛒 *E-commerce for electronics*                                     | Django, DRF, React, Redux  | 🔹 Product filtering<br>🔹 Cart + Auth<br>🔹 REST APIs                          |
-| [**OffBeats App**](https://github.com/techtrotter/OffBeats) <br>🌄 *Trekking + Solo travel app*                                   | Android, Firebase, Jetpack | 🔹 Real-time DB<br>🔹 LLM itinerary (upcoming)<br>🔹 Travel partner connect     |
-| [**Spectrum Sensing**](https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning) <br>📡 *Deep Learning for wireless signals* | Python, CNN, RadioML       | 🔹 Modulation detection<br>🔹 SNR-based metrics<br>🔹 Research-backed           |
-| [**RapidEdge ERP**](https://github.com/techtrotter/RapidEdge-ERP) <br>🏭 *Custom ERP built with Odoo*                             | Odoo, PostgreSQL, Python   | 🔹 Website builder<br>🔹 Manufacturing workflow<br>🔹 Sales & Inventory modules |
+| Project                                                                                                                                  | Stack                   | Highlights                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------ |
+| 🛒 [**GadgetBox**](https://github.com/techtrotter/GadgetBox) <br>*Electronics e-commerce platform*                                       | Django, React, Redux    | Product filtering, cart + auth, REST APIs              |
+| 🌄 [**OffBeats App**](https://github.com/techtrotter/OffBeats) <br>*Solo travel & trekking app*                                          | Android, Firebase       | Real-time DB, LLM itinerary (soon), partner connect    |
+| 📡 [**Spectrum Sensing**](https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning) <br>*Wireless signal classifier*                | Python, Keras, RadioML  | CNN model, modulation detection, SNR-based analysis    |
+| 🏭 [**RapidEdge ERP**](https://github.com/techtrotter/RapidEdge-ERP) <br>*Custom ERP with Odoo*                                          | Odoo, PostgreSQL        | Website, sales, inventory, manufacturing modules       |
+| 🏠 [**Smart Home Automation**](https://github.com/techtrotter/IoT-Smart-Home) <br>*IoT-based home control system*                        | Arduino, MQTT, Firebase | App control, AC logic, real-time automation & security |
+| 🌫️ [**Air Pollution Monitor**](https://github.com/techtrotter/IoT-Air-Pollution-Monitoring-System) <br>*IoT air quality tracker*        | Arduino, Gas sensors    | CO₂/CO/humidity monitoring, alerts, dashboard          |
+| 🚗 [**Car Parking Inventory System**](https://github.com/techtrotter/CarParking-Inventory-System) <br>*Smart parking & space management* | Java, MySQL, JSP        | Slot tracking, admin panel, vehicle logs               |
