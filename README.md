@@ -14,7 +14,7 @@
 - 🤖 Passionate about **AI, Signal Processing**, and **LLMs**
 - 🌱 Learning **Cloud**, **DevOps**, and deepening my **Machine Learning** skills
 - 🛠️ Tech Blogger: [bijoytrektech.hashnode.dev](https://bijoytrektech.hashnode.dev)
-- 📍 Based in Bengaluru | From West Bengal
+- 📍 Based in Bengaluru | From Kolkata
 - 💬 Ask me about: Full-stack web dev, Odoo, Python, ML, IoT Projects
 - 🌄 Fun fact: I trek to recharge and code to create 🏕️
 
