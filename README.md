@@ -34,15 +34,20 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python‑Django‑Full‑Stack‑007ACC?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React‑Next‑Tailwind‑00D1B2?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS‑Lambda‑Serverless‑FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML‑AI‑DeepLearning‑F57C00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps‑Docker%20%26%20K8s‑316CE4?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database‑Postgres%20%26%20Mongo‑477A36?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
  ---
