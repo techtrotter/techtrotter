@@ -35,14 +35,15 @@
 ---
 
 ### 🛠️ Tech Stack
-```bash
-💻 Languages:        Python, JavaScript, Java, SQL, Bash
-🧰 Frameworks:       Django, Django REST Framework, ReactJS, Redux, Bootstrap
-🔗 ERP & IoT:        Odoo, Arduino, MQTT, Firebase
-🧠 AI/ML:            Scikit-Learn, OpenCV, TensorFlow, CNNs
-🗃️ Database:         PostgreSQL, MySQL, MariaDB, MongoDB
-☁️ Cloud & Tools:    AWS (S3, RDS), Docker, GitHub, VS Code, PyCharm
-```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python‑Django‑Full‑Stack‑007ACC?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React‑Next‑Tailwind‑00D1B2?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS‑Lambda‑Serverless‑FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML‑AI‑DeepLearning‑F57C00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps‑Docker%20%26%20K8s‑316CE4?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database‑Postgres%20%26%20Mongo‑477A36?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
  ---
 
