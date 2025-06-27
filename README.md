@@ -2,11 +2,12 @@
 <h3 align="center">🚀 Full-Stack Developer |  ML & AI Explorer |  Yog Sādhak | 🏔️ Mountain Trekker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=Python+%7C+Django+Developer;AI+%7C+ML+%7C+Deep+Learning+Practitioner;Trekker+who+codes+from+the+Himalayas;Yog+Sadhak+on+the+path+of+discipline+%26+devotion;React+%7C+Django+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=Python+%7C+Django+Developer;AI+%7C+ML+%7C+Deep+Learning+Practitioner;Trekker+who+codes+from+the+Himalayas;Disciplined+Yogic+Sadhana+Follower;React+%7C+Django+Full-Stack+Developer" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bijoy-laxmi-biswas-cse07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://bijoytrektech.hashnode.dev" target="_blank">
     <img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
@@ -14,10 +15,9 @@
   <a href="https://github.com/techtrotter" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-techtrotter-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Yog%20S%C4%81dhak-%E2%98%8E-lightgrey?style=for-the-badge" alt="Yog Sadhak"/>
-  <img src="https://img.shields.io/badge/Trekker-Himalaya%20Bound-0d1117?style=for-the-badge&logo=mapbox&logoColor=white" alt="Trekker"/>
+  <img src="https://img.shields.io/badge/Yoga-Sadhana-informational?style=for-the-badge&logoColor=white&color=brightgreen" alt="Yoga Badge"/>
+  <img src="https://img.shields.io/badge/Trekker-Himalaya%20Bound-orange?style=for-the-badge&logo=mapbox&logoColor=white" alt="Trekker"/>
 </p>
-
 
 
 ---
