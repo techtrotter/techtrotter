@@ -7,7 +7,7 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
 - 🔭 Currently building **ERP and E-commerce apps** with **Django**, **React**, and **Odoo**
 - 🤖 Passionate about **AI, Signal Processing**, and **LLMs**
@@ -21,7 +21,6 @@
 
 ### 🛠️ Tech Stack
 
-```bash
 💻 Languages:        Python, JavaScript, Java, SQL, Bash
 🧰 Frameworks:       Django, Django REST Framework, ReactJS, Redux, Bootstrap
 🔗 ERP & IoT:        Odoo, Arduino, MQTT, Firebase
