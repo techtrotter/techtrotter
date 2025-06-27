@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bijoy Laxmi Biswas</h1>
+<h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">🚀 Full-Stack Developer |  ML & AI Explorer |  Yog Sādhak | 🏔️ Mountain Trekker</h3>
 
 <p align="center">
