@@ -45,57 +45,9 @@
 ☁️ Cloud & Tools:    AWS (S3, RDS), Docker, GitHub, VS Code, PyCharm
  ---
 ```
-## 🧩 Featured Projects
-
-### [📦 GadgetBox](https://github.com/techtrotter/GadgetBox)
-*Modern electronics e-commerce platform built with Django + React*
-
-**Key Features:**
-- Dynamic product listing & filtering
-- User auth, cart, and order placement
-- REST APIs for full backend integration
-
-**Tech Stack:** Django, DRF, React, Redux
-
-![GadgetBox Screenshot](https://raw.githubusercontent.com/techtrotter/GadgetBox/main/screenshots/home.png)
-
----
-
-### [🌄 OffBeats App](https://github.com/techtrotter/OffBeats)
-*Android app for solo travelers & trekking enthusiasts*
-
-**Key Features:**
-- Firebase backend & real-time data
-- Upcoming LLM integration for itinerary AI
-
-**Tech Stack:** Android (Java), Firebase
-
-![OffBeats Screenshot](https://raw.githubusercontent.com/techtrotter/OffBeats/main/screenshots/landing.png)
-
----
-
-### [📡 Spectrum Sensing](https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning)
-*Signal modulation classification using deep learning for cognitive radio networks*
-
-**Key Features:**
-- Trained on RadioML dataset across SNR levels
-- CNN with dropout and L2 regularization
-- Confusion matrix visualization
-
-**Tech Stack:** Python, Keras, RadioML, Matplotlib
-
-![Spectrum Output](https://raw.githubusercontent.com/techtrotter/Spectrum-Sensing-Deep-Learning/main/screenshots/confusion_matrix.png)
-
----
-
-### [🌫️ Air Pollution Monitoring](https://github.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System)
-*IoT-based real-time air quality monitoring dashboard*
-
-**Key Features:**
-- CO, CO2, humidity & temperature detection
-- Wireless sensor data + web dashboard
-- Alert system on threshold values
-
-**Tech Stack:** Arduino, C++, IoT Sensors, Firebase
-
-![Air Monitor](https://raw.githubusercontent.com/techtrotter/IoT-Based-Air-Pollution-Monitoring-System/main/screenshots/overview.png)
+| Project                                                                                                                           | Tech Stack                 | Highlights                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------- |
+| [**GadgetBox**](https://github.com/techtrotter/GadgetBox) <br>🛒 *E-commerce for electronics*                                     | Django, DRF, React, Redux  | 🔹 Product filtering<br>🔹 Cart + Auth<br>🔹 REST APIs                          |
+| [**OffBeats App**](https://github.com/techtrotter/OffBeats) <br>🌄 *Trekking + Solo travel app*                                   | Android, Firebase, Jetpack | 🔹 Real-time DB<br>🔹 LLM itinerary (upcoming)<br>🔹 Travel partner connect     |
+| [**Spectrum Sensing**](https://github.com/techtrotter/Spectrum-Sensing-Deep-Learning) <br>📡 *Deep Learning for wireless signals* | Python, CNN, RadioML       | 🔹 Modulation detection<br>🔹 SNR-based metrics<br>🔹 Research-backed           |
+| [**RapidEdge ERP**](https://github.com/techtrotter/RapidEdge-ERP) <br>🏭 *Custom ERP built with Odoo*                             | Odoo, PostgreSQL, Python   | 🔹 Website builder<br>🔹 Manufacturing workflow<br>🔹 Sales & Inventory modules |
