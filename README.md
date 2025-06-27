@@ -55,7 +55,3 @@
 | 🌫️ [**Air Pollution Monitor**](https://github.com/techtrotter/IoT-Air-Pollution-Monitoring-System) <br>*IoT air quality tracker*        | Arduino, Gas sensors    | CO₂/CO/humidity monitoring, alerts, dashboard          |
 | 🚗 [**Car Parking Inventory System**](https://github.com/techtrotter/CarParking-Inventory-System) <br>*Smart parking & space management* | Java, MySQL, JSP        | Slot tracking, admin panel, vehicle logs               |
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=📫+Reach+Me+at...;Email:+blb8.dev@gmail.com;LinkedIn:+linkedin.com/in/bijoy-laxmi-biswas-cse07;Hashnode:+bijoytrektech.hashnode.dev" alt="Typing SVG" />
-</p>
