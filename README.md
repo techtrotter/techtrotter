@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bijoy Laxmi Biswas</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 ML & AI Explorer | 🧘‍♂️ Yog Sādhak | 🏔️ Mountain Trekker</h3>
+<h3 align="center">🚀 Full-Stack Developer |  ML & AI Explorer |  Yog Sādhak | 🏔️ Mountain Trekker</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=Python+%7C+Django+Developer;AI+%7C+ML+%7C+Deep+Learning+Practitioner;Trekker+who+codes+from+the+Himalayas;Yog+Sadhak+on+the+path+of+discipline+%26+devotion;React+%7C+Django+Full-Stack+Developer" alt="Typing SVG" />
